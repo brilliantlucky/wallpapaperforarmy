@@ -1,0 +1,280 @@
+{ "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+        
+        "appid": "pub-3940256099942544",
+        "admobappid": "ca-app-pub-3940256099942544~3347511713",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        
+        "icon_promote": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcLivNTS9yLnzS7_Q6GT1HxV4QwzJqtCDNQeC8qvLUo-aLdShSQ&s",
+        "judul_promote": "Promote App Example",
+        "deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
+        "gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "link_promote": "https://www.google.com/",
+        "status_promote": "0",
+        
+        "interval": 1,
+        "inter_splash":"1",
+        "pengaturan_iklan":"1",
+        
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner_native":"981545408591412_2709037092508893",
+        "fan_native":"981545408591412_1232226853523265",
+        
+        "inmobi_inter": 1476878485960,
+        "inmobi_banner":1473189489298,
+        "inmobi_id":"1234567890qwerty0987654321qwerty12345",
+        
+        
+         "startaap":"1234567890"
+        
+      
+       
+
+        }
+    ],
+
+"More":
+  [ 
+    {
+    "id":1,
+    "judul":"Ludo King",
+    "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+  },
+  {
+    "id":2,
+    "judul":"Homescapes",
+    "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+  },
+  {
+    "id":3,
+    "judul":"Minecraft",
+    "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+  }
+
+  ],
+  
+  "Categories": [
+
+  ],
+
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/1.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/2.jpg"
+    },
+    {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/3.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/4.jpg"
+    },
+    {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/5.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/6.jpg"
+    },
+    {
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/7.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/8.jpg"
+    },
+    {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/9.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"0010",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/10.jpg"
+    },
+	    {
+      "id":11,
+      "id_wall":"0011",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/11.jpg"
+    },
+    {
+      "id":12,
+      "id_wall":"0012",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/12.jpg"
+    },
+    {
+      "id":13,
+      "id_wall":"0013",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/13.jpg"
+    },
+    {
+      "id":14,
+      "id_wall":"0014",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/14.jpg"
+    },
+    {
+      "id":15,
+      "id_wall":"0015",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/15.jpg"
+    },
+    {
+      "id":16,
+      "id_wall":"0016",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/16.jpg"
+    },
+    {
+      "id":17,
+      "id_wall":"0017",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/17.jpg"
+    },
+    {
+      "id":18,
+      "id_wall":"0018",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/18.jpg"
+    },
+    {
+      "id":19,
+      "id_wall":"0019",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/19.jpg"
+    },
+    {
+      "id":20,
+      "id_wall":"0020",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/20.jpg"
+    },
+	    {
+      "id":21,
+      "id_wall":"0021",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/21.jpg"
+    },
+    {
+      "id":22,
+      "id_wall":"0022",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/22.jpg"
+    },
+    {
+      "id":23,
+      "id_wall":"0023",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/23.jpg"
+    },
+    {
+      "id":24,
+      "id_wall":"0024",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/24.jpg"
+    },
+    {
+      "id":25,
+      "id_wall":"0025",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/25.jpg"
+    },
+    {
+      "id":26,
+      "id_wall":"0026",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/26.jpg"
+    },
+    {
+      "id":27,
+      "id_wall":"0027",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/27.jpg"
+    },
+    {
+      "id":28,
+      "id_wall":"0028",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/28.jpg"
+    },
+    {
+      "id":29,
+      "id_wall":"0029",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/29.jpg"
+    },
+    {
+      "id":30,
+      "id_wall":"0030",
+      "nama_cat": "",
+      "judul":"Wallpaper for BTS",
+      "image":"https://ia801500.us.archive.org/31/items/wallpaperforarmy/30.jpg"
+    }
+
+  ]
+}
