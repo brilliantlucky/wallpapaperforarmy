@@ -3,10 +3,10 @@
         "status": "0",
         "link": "https://play.google.com/store/apps/details?id=com.ad.tesiqkepribadia&hl=en",
         
-        "appid": "pub-3940256099942544",
-        "admobappid": "ca-app-pub-3940256099942544~3347511713",
-        "interid": "ca-app-pub-3940256099942544/1033173712",
-        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        "appid": "ca-app-pub-5482625192588941",
+        "admobappid": "ca-app-pub-5482625192588941~6565912811",
+        "interid": "ca-app-pub-5482625192588941/7303301681",
+        "nativeid": "ca-app-pub-5482625192588941/2680163410",
         
         "icon_promote": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcLivNTS9yLnzS7_Q6GT1HxV4QwzJqtCDNQeC8qvLUo-aLdShSQ&s",
         "judul_promote": "Promote App Example",
@@ -15,8 +15,8 @@
         "link_promote": "https://www.google.com/",
         "status_promote": "0",
         
-        "interval": 5,
-        "inter_splash":"0",
+        "interval": 1,
+        "inter_splash":"1",
         "pengaturan_iklan":"1",
         
         "fan_inter":"981545408591412_999151030164183",
